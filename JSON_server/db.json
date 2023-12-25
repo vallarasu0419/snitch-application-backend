@@ -1,0 +1,354 @@
+{
+  "userData": [
+    {
+      "id": 1,
+      "productName": "Shoes Sneakers Footwear",
+      "price": "70",
+      "image": "https://cdn.pixabay.com/photo/2016/12/10/16/57/shoes-1897708_640.jpg",
+      "category": "Footwear"
+    },
+    {
+      "id": 2,
+      "productName": "Blue Dress",
+      "price": "50",
+      "image": "https://images.pexels.com/photos/17902436/pexels-photo-17902436/free-photo-of-portrait-of-woman-in-blue-dress.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "Clothing"
+    },
+    {
+      "id": 3,
+      "productName": "Samsung Galaxy S21",
+      "price": "799",
+      "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Electronics"
+    },
+    {
+      "id": 4,
+      "productName": "Basic Black Casual Sneaker",
+      "price": "2,190",
+      "image": "https://cdn.pixabay.com/photo/2016/12/11/12/41/shoes-1899327_640.jpg",
+      "category": "Footwear"
+    },
+    {
+      "id": 5,
+      "productName": "Wooden Coffee Table",
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1520031473529-2c06dea61853?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Furniture"
+    },
+    {
+      "id": 6,
+      "productName": "Cotton Towels Set",
+      "price": 25,
+      "image": "https://media.istockphoto.com/id/1084515824/photo/a-pair-of-towels-as-a-gift.jpg?s=2048x2048&w=is&k=20&c=8jFGi2VwreQ1vTOaP1vYGWGbpdra712GkFAG9b_JPjs=",
+      "category": "Home Goods"
+    },
+    {
+      "id": 7,
+      "productName": "Sony 65-inch 4K TV",
+      "price": 1200,
+      "image": "https://media.istockphoto.com/id/483575898/photo/samsung-smart-tv-and-social-media.jpg?s=612x612&w=0&k=20&c=ayg8nakAMq9MwQyPXdkQAKr1c3JDZiDZbySjciG03_U=",
+      "category": "Electronics"
+    },
+    {
+      "id": 8,
+      "productName": "Organic Olive Oil",
+      "price": 15,
+      "image": "https://media.istockphoto.com/id/1200062229/photo/female-hands-hold-bottle-with-olive-oil-on-white-background-top-view.jpg?s=612x612&w=0&k=20&c=BorRtz3cWCbF2sJEppcY6UkFeVptzdbLrJxYBfTpz_w=",
+      "category": "Groceries"
+    },
+    {
+      "id": 9,
+      "productName": "Comfortable Sofa",
+      "price": 500,
+      "image": "https://media.istockphoto.com/id/1161177015/photo/modern-living-room-in-natural-botanical-style.jpg?s=612x612&w=0&k=20&c=h5oNCdES_R68ZbIfA8ez6PDZIBzJJPTulgXGF6WJEIE=",
+      "category": "Furniture"
+    },
+    {
+      "id": 10,
+      "productName": "Wireless Headphones",
+      "price": 80,
+      "image": "https://media.istockphoto.com/id/1251157201/photo/samut-prakan-thailand-apple-airpods-wireless-headphone-with-charging-box-use-with-iphone-ipad.jpg?s=612x612&w=0&k=20&c=Vm0ZvJ3B-9tQS6bq2OiJ0WMgOQTCGav5p6E5R5xdt5Y=",
+      "category": "Electronics"
+    },
+    {
+      "id": 11,
+      "productName": "Running Shoes",
+      "price": "90",
+      "image": "https://media.istockphoto.com/id/1312812356/photo/stability-and-cushion-running-shoes-new-unbranded-running-sneaker-or-trainer-on-orange.jpg?s=612x612&w=0&k=20&c=7aRngqzzTH9dIAlhpOLKmZo8pRNgjqf-v_5jljWo2_s=",
+      "category": "Footwear"
+    },
+    {
+      "id": 12,
+      "productName": "Red Cocktail Dress",
+      "price": "120",
+      "image": "https://media.istockphoto.com/id/1169138931/photo/its-hard-work-looking-this-good.jpg?s=612x612&w=0&k=20&c=D9MsC3M9i8WuEjg_0F4Rh7KXc054_k5DdYXvjxv9x4g=",
+      "category": "Clothing"
+    },
+    {
+      "id": 13,
+      "productName": "Smartphone Holder",
+      "price": "20",
+      "image": "https://images.pexels.com/photos/4526429/pexels-photo-4526429.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Electronics"
+    },
+    {
+      "id": 14,
+      "productName": "Athletic Sneakers",
+      "price": "150",
+      "image": "https://images.pexels.com/photos/4723006/pexels-photo-4723006.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Footwear"
+    },
+    {
+      "id": 15,
+      "productName": "Modern Coffee Table",
+      "price": "250",
+      "image": "https://images.pexels.com/photos/4099354/pexels-photo-4099354.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Furniture"
+    },
+    {
+      "id": 16,
+      "productName": "Luxury Bath Towel Set",
+      "price": "40",
+      "image": "https://images.pexels.com/photos/3872899/pexels-photo-3872899.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Home Goods"
+    },
+    {
+      "id": 17,
+      "productName": "75-inch 8K Smart TV",
+      "price": "2500",
+      "image": "https://images.pexels.com/photos/4009402/pexels-photo-4009402.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Electronics"
+    },
+    {
+      "id": 18,
+      "productName": "Extra Virgin Olive Oil",
+      "price": "20",
+      "image": "https://images.pexels.com/photos/4834306/pexels-photo-4834306.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Groceries"
+    },
+    {
+      "id": 19,
+      "productName": "Leather Recliner Sofa",
+      "price": "700",
+      "image": "https://images.pexels.com/photos/3757055/pexels-photo-3757055.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Furniture"
+    },
+    {
+      "id": 20,
+      "productName": "Noise-Canceling Headphones",
+      "price": "120",
+      "image": "https://images.pexels.com/photos/5974014/pexels-photo-5974014.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Electronics"
+    },
+    {
+      "id": 21,
+      "productName": "Comfortable Sneakers",
+      "price": "95",
+      "image": "https://images.pexels.com/photos/1456733/pexels-photo-1456733.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Footwear"
+    },
+    {
+      "id": 22,
+      "productName": "Elegant Evening Dress",
+      "price": "150",
+      "image": "https://images.pexels.com/photos/5836424/pexels-photo-5836424.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Clothing"
+    },
+    {
+      "id": 23,
+      "productName": "Multifunctional Smartphone Stand",
+      "price": "25",
+      "image": "https://images.pexels.com/photos/7243116/pexels-photo-7243116.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Electronics"
+    },
+    {
+      "id": 24,
+      "productName": "High-Performance Running Shoes",
+      "price": "180",
+      "image": "https://images.unsplash.com/photo-1529810313688-44ea1c2d81d3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fEhpZ2glMjBQZXJmb3JtYW5jZSUyMFJ1bm5pbmclMjBTaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
+      "category": "Footwear"
+    },
+    {
+      "id": 25,
+      "productName": "Sleek Coffee Table",
+      "price": "300",
+      "image": "https://images.pexels.com/photos/19528496/pexels-photo-19528496/free-photo-of-coffee-cup-on-yellow-table.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Furniture"
+    },
+    {
+      "id": 26,
+      "productName": "Luxurious Bathrobe Set",
+      "price": "60",
+      "image": "https://images.pexels.com/photos/18437572/pexels-photo-18437572/free-photo-of-young-woman-in-white-bathrobe-and-head-towel-posing-on-a-spacious-balcony.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Home Goods"
+    },
+    {
+      "id": 27,
+      "productName": "80-inch 8K Smart TV",
+      "price": "2800",
+      "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ODAlMjBpbmNoJTIwOEslMjBTbWFydCUyMFRWfGVufDB8fDB8fHww",
+      "category": "Electronics"
+    },
+    {
+      "id": 28,
+      "productName": "Premium Olive Oil",
+      "price": "30",
+      "image": "https://images.unsplash.com/photo-1556760544-74068565f05c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UHJlbWl1bSUyME9saXZlJTIwT2lsfGVufDB8fDB8fHww",
+      "category": "Groceries"
+    },
+    {
+      "id": 29,
+      "productName": "Leather Recliner Sofa",
+      "price": "850",
+      "image": "https://media.istockphoto.com/id/1307719086/photo/modern-living-room-and-open-plan-kitchen-at-night-with-neon-lights.jpg?s=612x612&w=0&k=20&c=vNBNHDlxl2z4Z_aQEvGMFwngD_NouKERKiCBN3BnITQ=",
+      "category": "Furniture"
+    },
+    {
+      "id": 30,
+      "productName": "Wireless Noise-Canceling Headphones",
+      "price": "150",
+      "image": "https://media.istockphoto.com/id/1137008200/photo/black-wireless-noise-canceling-headphones-with-a-mobile-phone-on-a-blue-background-music.jpg?s=612x612&w=0&k=20&c=ZnwMXLcVm_udfbQkR_lDdChEKjKMzx4o8DHyZ9ciKik=",
+      "category": "Electronics"
+    },
+    {
+      "id": 31,
+      "productName": "Trail Running Shoes",
+      "price": "110",
+      "image": "https://media.istockphoto.com/id/1171372880/photo/shoes-for-trail-running-and-hiking.jpg?s=612x612&w=0&k=20&c=Z2hRnQbXKZZtjxSAJkDvc0DfVlB5Xep5v3OW9N1saKI=",
+      "category": "Footwear"
+    },
+    {
+      "id": 32,
+      "productName": "Formal Black Dress",
+      "price": "180",
+      "image": "https://media.istockphoto.com/id/1144491707/photo/fashionable-man-in-formal-dark-suit-modern-businessman-adjusting-his-sleeve.jpg?s=612x612&w=0&k=20&c=boNUw27007wqClyQIWFAZEbnFiSNVlppaalVyRe4tOo=",
+      "category": "Clothing"
+    },
+    {
+      "id": 33,
+      "productName": "Adjustable Phone Holder",
+      "price": "30",
+      "image": "https://media.istockphoto.com/id/1312931283/photo/black-cellphone-in-rugged-rubber-protective-cover-on-small-flexible-tripod-isolated-on-white.jpg?s=612x612&w=0&k=20&c=rokj-MbTCZ77oag3Wfbx6rAJp_vWFN2dl47LsLCF5tE=",
+      "category": "Electronics"
+    },
+    {
+      "id": 34,
+      "productName": "Stylish Sneakers",
+      "price": "200",
+      "image": "https://media.istockphoto.com/id/979833570/photo/different-color-running-shoes.jpg?s=612x612&w=0&k=20&c=NU3IFiMQBeDkoh-8qolTrdLseOuDX0t7qtTygQJ9cGs=",
+      "category": "Footwear"
+    },
+    {
+      "id": 35,
+      "productName": "Minimalist Coffee Table",
+      "price": "350",
+      "image": "https://media.istockphoto.com/id/457982639/photo/coffee-table-in-modern-living-room.jpg?s=612x612&w=0&k=20&c=Ae7KwBM2jPGfyaoPanDiVenpImoMaqhDGF60QhFS_qE=",
+      "category": "Furniture"
+    },
+    {
+      "id": 36,
+      "productName": "Plush Bath Towel Set",
+      "price": "50",
+      "image": "https://media.istockphoto.com/id/1139717201/photo/stack-of-clean-soft-colorful-towels-flowers-on-background.jpg?s=612x612&w=0&k=20&c=FYNtk562ee9ViaXAzHTJWgVp1SqLTqM7n__2HYkUDIE=",
+      "category": "Home Goods"
+    },
+    {
+      "id": 37,
+      "productName": "85-inch 8K Smart TV",
+      "price": "3000",
+      "image": "https://media.istockphoto.com/id/486561816/photo/4k-ultrahd-tv.jpg?s=612x612&w=0&k=20&c=j2NbNV86auZURhQhh7T9VrutQWqRpogA6BOpi8rmQak=",
+      "category": "Electronics"
+    },
+    {
+      "id": 38,
+      "productName": "Kashmiri Kesar/Saffron Threads",
+      "price": "399",
+      "image": "https://media.istockphoto.com/id/845497226/photo/saffron-space-threads-in-vintage-silver-bowl.jpg?s=612x612&w=0&k=20&c=TyAEWOMcblxPslFUVe3qhg9GxUfHRGk0GGL7i3hGgE0=",
+      "category": "Groceries"
+    },
+    {
+      "id": 39,
+      "productName": "Modern Recliner Sofa",
+      "price": "950",
+      "image": "https://media.istockphoto.com/id/545587446/photo/modern-minimalist-style-penthouse-living-room.jpg?s=612x612&w=0&k=20&c=xH1xG_GD9-LhoZxI2-gWF0OGzNabrJOERi6NO_S3hnk=",
+      "category": "Furniture"
+    },
+    {
+      "id": 40,
+      "productName": "Pigeon Favourite Electric Kettle ",
+      "price": "599",
+      "image": "https://media.istockphoto.com/id/93238259/photo/electric-kettle-and-cup.jpg?s=612x612&w=0&k=20&c=YUQVebL_w8kmJzEFSXhM3nj_L1X-wdTsXeDsqT71Pxo=",
+      "category": "Electronics"
+    },
+    {
+      "id": 41,
+      "productName": "Men Slippers",
+      "price": "120",
+      "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fHw%3D",
+      "category": "Footwear"
+    },
+    {
+      "id": 42,
+      "productName": "Elegant Evening Gown",
+      "price": "250",
+      "image": "https://images.pexels.com/photos/4618055/pexels-photo-4618055.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Clothing"
+    },
+    {
+      "id": 43,
+      "productName": "BAJAJ Majesty DX 6 1000 W Dry Iron",
+      "price": "40",
+      "image": "https://images.unsplash.com/photo-1489274495757-95c7c837b101?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Electronics"
+    },
+    {
+      "id": 44,
+      "productName": "Urban High-Top Sneakers",
+      "price": "180",
+      "image": "https://media.istockphoto.com/id/1288167163/photo/yellow-canvas-shoes.jpg?s=612x612&w=0&k=20&c=Jm75jSiSxJSTU4_IbosR5yCkEosz8E0VbUIqfG3iQNA=",
+      "category": "Footwear"
+    },
+    {
+      "id": 45,
+      "productName": "Hanging lounge chair",
+      "price": "999",
+      "image": "https://media.istockphoto.com/id/1325869697/photo/modern-hanging-rattan-chair-with-gray-pillow-and-flowers.jpg?s=612x612&w=0&k=20&c=3JlkIiVLL7K0VZ95JQznxWydbJ7gifds8Fbdjm0s0V4=",
+      "category": "Furniture"
+    },
+    {
+      "id": 46,
+      "productName": "Good Knight Power Active Plus",
+      "price": "60",
+      "image": "data:image/jpeg;base64,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",
+      "category": "Home Goods"
+    },
+    {
+      "id": 47,
+      "productName": "Aquaguard Delight NXT 6 L RO + UV Water Purifier",
+      "price": "7,597",
+      "image": "https://media.istockphoto.com/id/153266972/photo/blue-water-filter.jpg?s=612x612&w=0&k=20&c=ynRsjH-8BDaJ8l-_L-cisnVClOLU0WBx_2qooKfON0M=",
+      "category": "Electronics"
+    },
+    {
+      "id": 48,
+      "productName": "Nutrition Peanut Butter Crunchy",
+      "price": "45",
+      "image": "https://media.istockphoto.com/id/1219833809/photo/peanut-butter.jpg?s=612x612&w=0&k=20&c=rysJJVeznTVI3ZwAtzwEIx7jV6BUj_PBc0JxLQZbj2o=",
+      "category": "Groceries"
+    },
+    {
+      "id": 49,
+      "productName": "Contemporary Leather Sofa",
+      "price": "1200",
+      "image": "https://media.istockphoto.com/id/545587080/photo/beige-contemporary-modern-sofa-in-the-living-room.jpg?s=612x612&w=0&k=20&c=YJpmptytgagCKzkVKlkrd5zkvIQ6Gs_kzclG2ngGWOY=",
+      "category": "Furniture"
+    },
+    {
+      "id": 50,
+      "productName": "Atharv Electronics Professional Hair Dryer",
+      "price": "150",
+      "image": "https://media.istockphoto.com/id/860904680/photo/woman-with-a-hair-dryer-to-heat-the-hair.jpg?s=612x612&w=0&k=20&c=EmXJS_NeZnvfOkNRW4lwidJsLmKD7MgurYrb_8Ovk4U=",
+      "category": "Electronics"
+    }
+  ]
+}
